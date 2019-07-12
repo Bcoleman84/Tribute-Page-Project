@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color:  #ffff99;
+}
+h1{
+  font-family: font-family: 'Roboto Mono', monospace;
+  font-size: 75px;
+  color:  #b30000;
+}
+h2{
+  font-family: font-family: 'Roboto Mono', monospace;
+  font-size: 15px;
+  color:  black;
+;
+}
+#image {
+width: 30%;
+height: auto;
+max-width: 100px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#img-caption{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10px;
+  font-weight: bold;
+}
+#bio{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
